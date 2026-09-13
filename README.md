@@ -1,4 +1,5 @@
-⚙️ MechE
-🚀 Rocketry & Aerospace
-📡 Radios & RF
-🐳 Flexing on Orcas
+- ⚙️ MechE
+- 🚀 Rocketry & Aerospace
+- 📡 Radios & RF
+
+Currently Flexing on Orcas 🐳
